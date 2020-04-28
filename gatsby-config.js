@@ -7,7 +7,7 @@ module.exports = {
       summary: `I live in Seattle and am unsurprisingly lacking in quality bio game.`,
     },
     description: `A blog built with Gatsby.`,
-    siteUrl: `https://determined-hugle-d8baa2.netlify.app`,
+    siteUrl: `https://zamudio-blog.netlify.app`,
     social: {
       twitter: ``,
     },

@@ -1,9 +1,9 @@
-import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import Image from "gatsby-image";
 
-import { rhythm } from "../utils/typography"
-import { SocialIcon } from "react-social-icons"
+import { rhythm } from "../utils/typography";
+import { SocialIcon } from "react-social-icons";
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -24,9 +24,9 @@ const Bio = () => {
         }
       }
     }
-  `)
+  `);
 
-  const { author } = data.site.siteMetadata // { author, social }
+  const { author } = data.site.siteMetadata; // { author, social }
   return (
     <div
       style={{
@@ -62,21 +62,9 @@ const Bio = () => {
             style={{ height: 25, width: 25 }}
           />
         }
-        {
-          <SocialIcon
-            url="https://www.snapchat.com/add/mziacm"
-            style={{ height: 25, width: 25 }}
-          />
-        }
-        {
-          <SocialIcon
-            url="https://open.spotify.com/user/mziacm?si=KLKXDs2VTy6-JJAakpRYMA"
-            style={{ height: 25, width: 25 }}
-          />
-        }
       </p>
     </div>
-  )
-}
+  );
+};
 
-export default Bio
+export default Bio;
