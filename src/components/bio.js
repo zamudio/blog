@@ -50,7 +50,7 @@ const Bio = () => {
       <p>
         Written by <strong>{author.name}</strong>. {author.summary}
         {` `}
-        {
+        {/* {
           <SocialIcon
             url="https://github.com/zamudio"
             style={{ height: 25, width: 25, textDecoration: "none" }}
@@ -61,7 +61,7 @@ const Bio = () => {
             url="https://www.linkedin.com/in/michael-zamudio-878672197/"
             style={{ height: 25, width: 25, textDecoration: "none" }}
           />
-        }
+        } */}
       </p>
     </div>
   );
