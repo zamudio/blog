@@ -53,13 +53,13 @@ const Bio = () => {
         {
           <SocialIcon
             url="https://github.com/zamudio"
-            style={{ height: 25, width: 25 }}
+            style={{ height: 25, width: 25, textDecoration: "none" }}
           />
         }
         {
           <SocialIcon
             url="https://www.linkedin.com/in/michael-zamudio-878672197/"
-            style={{ height: 25, width: 25 }}
+            style={{ height: 25, width: 25, textDecoration: "none" }}
           />
         }
       </p>
