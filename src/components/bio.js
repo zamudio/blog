@@ -62,18 +62,6 @@ const Bio = () => {
             style={{ height: 25, width: 25 }}
           />
         }
-        {
-          <SocialIcon
-            url="https://www.snapchat.com/add/mziacm"
-            style={{ height: 25, width: 25 }}
-          />
-        }
-        {
-          <SocialIcon
-            url="https://open.spotify.com/user/mziacm?si=KLKXDs2VTy6-JJAakpRYMA"
-            style={{ height: 25, width: 25 }}
-          />
-        }
       </p>
     </div>
   )
