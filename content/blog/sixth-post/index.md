@@ -8,13 +8,13 @@ In web development the go-to architecture design pattern for years has been the 
 
 ### MVC
 
-MVC stands for Model View Controller and was introduced in the 1970s. In MVC design, the main pattern is a separtion of concerns from each layer.
+MVC stands for Model View Controller and was introduced in the 1970s. In MVC design, the main pattern is a separation of concerns from each layer.
 
 - The model manages the data of the application
 - The view represents the UI display of the model
 - The controller connects them, taking in inputs, manipulating the model, and updating the view
 
-Because we separate the concerns for each layer, it provides benefits such as improved testability, but we quickly can reach limitations with this model when scaling. For example, most modern JS freamworks provide data binding support so that the view can talk with the model directly, and this can cause some heavy performance issues when you have many models talking to many views and having them update all the time.
+Because we separate the concerns for each layer, it provides benefits such as improved testability, but we quickly can reach limitations with this model when scaling. For example, most modern JS frameworks provide data binding support so that the view can talk with the model directly, and this can cause some heavy performance issues when you have many models talking to many views and having them update all the time.
 
 ![mvc](./mvc.jpg)
 
