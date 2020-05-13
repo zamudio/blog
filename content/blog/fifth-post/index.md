@@ -18,4 +18,4 @@ Okay, but why use Gatsby over other frameworks? Well, the ecosystem is rich and 
 
 ![sigh](./sigh.gif)
 
-Yes, there are always downsides in life and this is no exception. While the framwork is great, it does require a knowledge of both React and GraphQL. But hey, if you haven't learned those yet, it's never too late to start.
+Yes, there are always downsides in life and this is no exception. While the framework is great, it does require a knowledge of both React and GraphQL. But hey, if you haven't learned those yet, it's never too late to start.
