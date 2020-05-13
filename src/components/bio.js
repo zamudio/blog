@@ -3,7 +3,7 @@ import { useStaticQuery, graphql } from "gatsby";
 import Image from "gatsby-image";
 
 import { rhythm } from "../utils/typography";
-// import { SocialIcon } from "react-social-icons";
+import { SocialIcon } from "react-social-icons";
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -51,18 +51,19 @@ const Bio = () => {
       <p>
         Written by <strong>{author.name}</strong>. {author.summary}
         {` `}
-        {/* {
+        {
           <SocialIcon
             url="https://github.com/zamudio"
-            style={{ height: 20, width: 20, textDecoration: "none" }}
+            style={{ height: 25, width: 25, textDecoration: "none" }}
           />
-        } */}
-        {/* {
+        }
+        {` `}
+        {
           <SocialIcon
             url="https://www.linkedin.com/in/michael-zamudio-878672197/"
             style={{ height: 25, width: 25, textDecoration: "none" }}
           />
-        } */}
+        }
       </p>
     </div>
   );
