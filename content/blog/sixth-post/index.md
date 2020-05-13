@@ -1,10 +1,10 @@
 ---
 title: Flux vs MVC
 date: "2020-04-21T10:20:32.169Z"
-description: Design Pattern Showdown
+description: Architecture Pattern Showdown
 ---
 
-In web development the go-to design pattern for years has been the MVC pattern, however Facebook developed a way called Flux that promises to achieve the same with a different data approach. Let's compare:
+In web development the go-to architecture design pattern for years has been the MVC pattern, however Facebook developed a way called Flux that promises to achieve the same with a different data approach. Let's compare:
 
 ### MVC
 
