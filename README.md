@@ -1,12 +1,12 @@
 ## My Blog
-A blog project I made in Gatsby.js and React.
+A blog project I made in Gatsby.js and React with a dark && light mode.
 
 ## Motivation
-I wanted a place to write articles and give back to the community while also serving as a practice tool in building Gatsby static sites
+I wanted a place to write articles and give back to the community while also serving as a practice tool in building Gatsby static sites.
 
 ## Screenshot
-<img src="" alt="screenshot" width="450" height="250" />
-<img src="" alt="screenshot" width="450" height="250" />
+<img src="https://github.com/zamudio/blog/blob/master/public/project_screenshot_dark_mode.png" alt="screenshot" width="450" height="250" />
+<img src="https://github.com/zamudio/blog/blob/master/public/project_screenshot_light_mode.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
 Go [here](https://zamudio-blog.netlify.app/) to check it out.
