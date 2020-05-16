@@ -1,7 +1,7 @@
 ---
 title: Fetching APIs in React
 date: "2020-05-04T12:40:32.169Z"
-description: Building out a quick react app with API data
+description: Integrating a RESTful API into a React app
 ---
 
 Learning to pull data from APIs is a powerful, powerful thing. Let's face it: we are data addicted. We love posting information, consuming information, learning new things from information. You get the point. We are surrounded by APIs filled with data ready to use.
