@@ -1,12 +1,12 @@
 ---
 title: Fetching APIs in React
 date: "2020-05-04T12:40:32.169Z"
-description: Integrating a RESTful API into a React app
+description: Integrating a RESTful API with fetch
 ---
 
-Learning to pull data from APIs is a powerful, powerful thing. Let's face it: we are data addicted. We love posting information, consuming information, learning new things from information. You get the point. We are surrounded by APIs filled with data ready to use.
+Let's face it: we are data addicted. But thankfully we can easily pull data from APIs that adhere to REST architectural style with the built-in fetch and json methods in React.
 
-Let's create a small react app to show how to fetch API data. In this case, we're going to fetch random Chuck Norris jokes. As a note: this assumes you understand REST API concepts and understand react
+We'll create a small react app to show how to fetch API data (random Chuck Norris jokes, oh yeah) and display the info we want. As a note: this article assumes you understand React, RESTful APIs, and basic HTML/CSS.
 
 Let's get started!
 
