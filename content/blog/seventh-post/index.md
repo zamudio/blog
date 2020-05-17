@@ -52,9 +52,9 @@ Now we need to render our data, but before we do this let's move on to step thre
 
 ## Jokes component
 
-We're going to use Bootstrap for our styling. To do so, let's add the Bootstrap CDN to our project. Head to public/index.html file and add this link:
+We're going to use Bootstrap for our styling. To do so, let's add the latest Bootstrap CDN to our project. Head to public/index.html file and add this link:
 
-`<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">`
+`<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">`
 
 After that go to your src/component folder create a new file called Jokes.jsx and inside that file import React. Let's create the view to return. We want to pass in the props we set in the App.jsx file, so
 
