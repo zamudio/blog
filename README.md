@@ -1,8 +1,8 @@
 ## My Blog
-A blog project I made in Gatsby.js and React with a dark && light mode.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff7cc78a-1d6c-492e-b5d0-61c3b0e17355/deploy-status)](https://app.netlify.com/sites/zamudio-blog/deploys)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-## Motivation
-I wanted a place to write articles and give back to the community while also serving as a practice tool in building Gatsby static sites.
+A blog project I made in Gatsby.js and React with a dark && light mode. I wanted a place to write articles and give back to the community while also serving as a practice tool in building Gatsby static sites.
 
 ## Screenshot
 <img src="https://github.com/zamudio/blog/blob/master/public/project_screenshot_dark_mode.png" alt="screenshot" width="450" height="250" />
@@ -10,12 +10,6 @@ I wanted a place to write articles and give back to the community while also ser
 
 ## How to use?
 Go [here](https://zamudio-blog.netlify.app/) to check it out.
-
-## Build status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ff7cc78a-1d6c-492e-b5d0-61c3b0e17355/deploy-status)](https://app.netlify.com/sites/zamudio-blog/deploys)
-
-## Code style
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
 Built with:
@@ -32,4 +26,4 @@ Built with:
 - Image optimization with Gatsby
 
 ## License
-MIT © [Michael Zamudio](2020)
+MIT © Michael Zamudio
