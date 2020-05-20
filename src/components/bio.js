@@ -60,7 +60,7 @@ const Bio = () => {
         {` `}
         {
           <SocialIcon
-            url="https://www.linkedin.com/in/michael-zamudio-878672197/"
+            url="https://www.linkedin.com/in/michael-zamudio/"
             style={{ height: 25, width: 25, textDecoration: "none" }}
           />
         }
