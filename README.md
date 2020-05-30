@@ -9,7 +9,7 @@ A blog project I made in Gatsby.js and React with a dark && light mode. I wanted
 <img src="https://github.com/zamudio/blog/blob/master/public/project_screenshot_light_mode.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
-Go [here](https://zamudio-blog.netlify.app/) to check it out.
+Go [here](https://zamudioblog.com) to check it out.
 
 ## Tech/framework used
 Built with:
